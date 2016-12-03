@@ -1,0 +1,48 @@
+body{
+	margin: 0px;
+	color: rgb(20,20,20);
+	background: rgb(245,245,245);
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{	
+	color: rgb(212,57,42);
+	font-family: 'Lobster', cursive;
+}
+
+p{
+	font-size: 17px;
+	line-height: 20px;
+}
+
+#my-header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+	background: url("http://lorempixel.com/1300/600/nightlife");
+}
+
+.feature{
+	padding: 40px;
+	font-weight: 300;
+}
+
+.feature img{
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 50%;
+}
+
+#my-footer{
+	padding: 30px;
+	background: rgb(30,30,30);
+	color: lightgrey;
+}
+#my-footer a{
+	color:lightgrey;
+	font-size: 25px;
+}
+#my-footer a:hover {
+	color: white;
+}
